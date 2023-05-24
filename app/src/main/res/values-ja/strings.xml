@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="rock">グー</string>
+    <string name="scissors">チョキ</string>
+    <string name="paper">パー</string>
+    <string name="player">あなた</string>
+    <string name="cpu">CPU</string>
+    <string name="reset">リセット</string>
+    <string name="title">楽しいじゃんけんアプリ</string>
+    <string name="your_hand">あなたの手</string>
+    <string name="cpu_hand">CPUの手</string>
+    <string name="you_win">あなたの勝ち！</string>
+    <string name="cpu_win">CPUの勝ち！</string>
+    <string name="win">勝</string>
+    <string name="lose">負</string>
+    <string name="draw">分</string>
+    <string name="game">回戦目</string>
+    <string name="ready">じゃんけん…</string>
+    <string name="you_draw">引き分け</string>
+</resources>
